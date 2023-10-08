@@ -98,10 +98,10 @@ body{
 
 /* SHIBA */
 .shiba{
-    width: 15%;
+    width: 20%;
     display: block;
     position: absolute;
-    right: 3%;
+    right: 4%;
     margin: 0 auto;
     top: 200px;
     transition: width 0.2s ease-in-out, top 0.2s ease-in-out;
