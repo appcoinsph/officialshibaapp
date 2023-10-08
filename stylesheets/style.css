@@ -1,4 +1,4 @@
-/* Animations woohoo */
+ml k/* Animations woohoo */
 
 /* Rotation animation */
 /* Solution found on StackOverflow: https://stackoverflow.com/questions/16771225/css3-rotate-animation#16771693 */
@@ -101,7 +101,7 @@ body{
     width: 20%;
     display: block;
     position: absolute;
-    right: 4%;
+    right: 5%;
     margin: 0 auto;
     top: 200px;
     transition: width 0.2s ease-in-out, top 0.2s ease-in-out;
