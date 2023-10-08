@@ -592,4 +592,7 @@ function checkTime(i) {
     }
     return i;
 }
-
+const shibaconvert = document.querySelector('.shibaconvert');
+shibaconvert.addEventListener('click', ()=> {
+  shibaconvert.classList.toggle('active')
+})
