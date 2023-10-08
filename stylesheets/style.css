@@ -101,8 +101,7 @@ body{
     width: 25%;
     display: block;
     position: absolute;
-    left: 30%;
-    right: 5%;
+    right: 2%;
     margin: 0 auto;
     top: 200px;
     transition: width 0.2s ease-in-out, top 0.2s ease-in-out;
